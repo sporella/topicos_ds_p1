@@ -1,0 +1,4 @@
+.DS_Store
+env/
+modelos_keras/
+models/

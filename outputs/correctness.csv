@@ -1,0 +1,87 @@
+column,dtype,n_nonnull,n_nonparse_num,n_nonparse_date,n_sentinel_like
+Diag 01 Principal (cod+des),int64,14561,0,0,0
+Diag 02 Secundario (cod+des),int64,14561,0,0,0
+Diag 03 Secundario (cod+des),int64,14561,0,0,0
+Diag 04 Secundario (cod+des),int64,14561,0,0,0
+Diag 05 Secundario (cod+des),int64,14561,0,0,0
+Diag 06 Secundario (cod+des),int64,14561,0,0,0
+Diag 07 Secundario (cod+des),int64,14561,0,0,0
+Diag 08 Secundario (cod+des),int64,14561,0,0,0
+Diag 09 Secundario (cod+des),int64,14561,0,0,0
+Diag 10 Secundario (cod+des),int64,14561,0,0,0
+Diag 11 Secundario (cod+des),int64,14561,0,0,0
+Diag 12 Secundario (cod+des),int64,14561,0,0,0
+Diag 13 Secundario (cod+des),int64,14561,0,0,0
+Diag 14 Secundario (cod+des),int64,14561,0,0,0
+Diag 15 Secundario (cod+des),int64,14561,0,0,0
+Diag 16 Secundario (cod+des),int64,14561,0,0,0
+Diag 17 Secundario (cod+des),int64,14561,0,0,0
+Diag 18 Secundario (cod+des),int64,14561,0,0,0
+Diag 19 Secundario (cod+des),int64,14561,0,0,0
+Diag 20 Secundario (cod+des),int64,14561,0,0,0
+Diag 21 Secundario (cod+des),int64,14561,0,0,0
+Diag 22 Secundario (cod+des),int64,14561,0,0,0
+Diag 23 Secundario (cod+des),int64,14561,0,0,0
+Diag 24 Secundario (cod+des),int64,14561,0,0,0
+Diag 25 Secundario (cod+des),int64,14561,0,0,0
+Diag 26 Secundario (cod+des),int64,14561,0,0,0
+Diag 27 Secundario (cod+des),int64,14561,0,0,0
+Diag 28 Secundario (cod+des),int64,14561,0,0,0
+Diag 29 Secundario (cod+des),int64,14561,0,0,0
+Diag 30 Secundario (cod+des),int64,14561,0,0,0
+Diag 31 Secundario (cod+des),int64,14561,0,0,0
+Diag 32 Secundario (cod+des),int64,14561,0,0,0
+Diag 33 Secundario (cod+des),int64,14561,0,0,0
+Diag 34 Secundario (cod+des),int64,14561,0,0,0
+Diag 35 Secundario (cod+des),int64,14561,0,0,0
+Proced 01 Principal (cod+des),int64,14561,0,0,0
+Proced 02 Secundario (cod+des),int64,14561,0,0,0
+Proced 03 Secundario (cod+des),int64,14561,0,0,0
+Proced 04 Secundario (cod+des),int64,14561,0,0,0
+Proced 05 Secundario (cod+des),int64,14561,0,0,0
+Proced 06 Secundario (cod+des),int64,14561,0,0,0
+Proced 07 Secundario (cod+des),int64,14561,0,0,0
+Proced 08 Secundario (cod+des),int64,14561,0,0,0
+Proced 09 Secundario (cod+des),int64,14561,0,0,0
+Proced 10 Secundario (cod+des),int64,14561,0,0,0
+Proced 11 Secundario (cod+des),int64,14561,0,0,0
+Proced 12 Secundario (cod+des),int64,14561,0,0,0
+Proced 13 Secundario (cod+des),int64,14561,0,0,0
+Proced 14 Secundario (cod+des),int64,14561,0,0,0
+Proced 15 Secundario (cod+des),int64,14561,0,0,0
+Proced 16 Secundario (cod+des),int64,14561,0,0,0
+Proced 17 Secundario (cod+des),int64,14561,0,0,0
+Proced 18 Secundario (cod+des),int64,14561,0,0,0
+Proced 19 Secundario (cod+des),int64,14561,0,0,0
+Proced 20 Secundario (cod+des),int64,14561,0,0,0
+Proced 21 Secundario (cod+des),int64,14561,0,0,0
+Proced 22 Secundario (cod+des),int64,14561,0,0,0
+Proced 23 Secundario (cod+des),int64,14561,0,0,0
+Proced 24 Secundario (cod+des),int64,14561,0,0,0
+Proced 25 Secundario (cod+des),int64,14561,0,0,0
+Proced 26 Secundario (cod+des),int64,14561,0,0,0
+Proced 27 Secundario (cod+des),int64,14561,0,0,0
+Proced 28 Secundario (cod+des),int64,14561,0,0,0
+Proced 29 Secundario (cod+des),int64,14561,0,0,0
+Proced 30 Secundario (cod+des),int64,14561,0,0,0
+Edad,Int64,14561,0,0,0
+Sexo,Int64,14561,0,0,0
+GRD,string,14561,14561,14561,0
+GRD_codigo,object,14561,0,10994,0
+GRD_descripcion,string,14561,14561,14561,0
+GRD_severidad,object,14561,0,14561,0
+GRD_final,string,14561,0,14558,0
+Versión,object,14561,14561,14561,0
+Código,object,14561,14561,14147,0
+Descripción,object,14561,14561,14561,0
+Categoría,object,14561,14561,14561,0
+Sección,object,14561,14561,14561,0
+Capítulo,object,14561,14561,14561,0
+IR-GRD CÓDIGO,object,14561,0,10994,0
+NOMBRE DEL GRUPO GRD,object,14561,14561,14561,0
+Peso v31,float64,14561,0,0,0
+CDM_COD,int64,14561,0,0,0
+CATEGORÍA DIAGNÓSTICA MAYOR CDM,object,14561,14561,14561,0
+TIPO_COD,object,14561,14561,14561,0
+TIPO GRD,object,14561,14561,14561,0
+Precio FONASA 2016,float64,14561,0,0,0
